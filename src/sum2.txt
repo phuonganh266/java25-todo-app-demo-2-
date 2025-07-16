@@ -1,0 +1,2 @@
+int sum2(inta, int b) {
+	-- process sum2
